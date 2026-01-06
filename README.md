@@ -3,7 +3,7 @@
 This repository contains my cybersecurity projects.
 
 ## Project 1 (Minor-1)
-## Telnet vs SSH Security Analysis
+  Telnet vs SSH Security Analysis
 - Demonstrates why Telnet is insecure
 - Shows plaintext credentials using Wireshark
 - Compares with encrypted SSH traffic
@@ -19,7 +19,7 @@ This repository contains my cybersecurity projects.
 Telnet transmits data in plaintext, while SSH encrypts all communication.
 
 # Project 2 (Minor-2)
-## Metasploitable 2 & Mutillidae II Setup
+ Metasploitable 2 & Mutillidae II Setup
 
 ### 📌 Project Overview
 This project focuses on setting up a vulnerable virtual machine environment using Metasploitable 2 and successfully configuring the Mutillidae II web application. The objective is to understand virtual machine networking, Linux user management, web server configuration, and database initialization for a vulnerable web application.
