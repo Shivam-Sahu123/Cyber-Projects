@@ -9,8 +9,6 @@ This repository contains my academic cybersecurity projects completed as part of
 - Captures plaintext credentials using Wireshark
 - Compares Telnet traffic with encrypted SSH traffic
 
-📂 Folder: `Project-1_Telnet_vs_SSH/`
-
 ---
 
 ## 🐞 Project 2: Metasploitable 2 & Mutillidae II Setup
@@ -18,8 +16,6 @@ This repository contains my academic cybersecurity projects completed as part of
 - Created Linux user and verified permissions
 - Identified and fixed Mutillidae II database error
 - Verified vulnerable web application execution
-
-📂 Folder: `Project-2_Metasploitable_Mutillidae/`
 
 ---
 
