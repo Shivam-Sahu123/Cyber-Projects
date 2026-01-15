@@ -27,6 +27,13 @@ This repository contains my academic cybersecurity projects completed as part of
 
 ---
 
+### 🔐 Project 3: Bug Bounty Reconnaissance
+- Passive reconnaissance on a real-world organization
+- Subdomain enumeration, tech stack analysis, ASN discovery
+- Ethical, non-intrusive methodology
+
+---
+
 ## 👤 Author
 **Shivam Sahu**  
 B.Tech | Cybersecurity
